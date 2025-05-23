@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+The North American Aquatic Energy Density Toolbox
+contains data on energy densities of fish and other
+aquatic organisms collected across the North America.
+The data helps researchers and managers understand
+ecosystem health and food web dynamics.
