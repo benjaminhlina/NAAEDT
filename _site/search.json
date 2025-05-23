@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "North American Aquatic Energy Density Toolbox (NAAEDT)",
-    "section": "",
-    "text": "The North American Aquatic Energy Density Toolbox contains data on energy densities of fish and other aquatic organisms collected across the North America. The data helps researchers and managers understand ecosystem health and food web dynamics.\nThere are several different functions on the website and they include the toolbox, data templates, and data entry forms."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "The North American Aquatic Energy Density Toolbox contains data on energy densities of fish and other aquatic organisms collected across the North America. The data helps researchers and managers understand ecosystem health and food web dynamics."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "North American Aquatic Energy Density Toolbox",
+    "section": "",
+    "text": "Welcome to the the North American Aquatic Energy Density Toolbox (NAAEDT).\nThis toolbox helps researchers and managers understand ecosystem health and food web dynamics for aquatic ecosystems.\nThere are several different functions on the website and they include the toolbox, data templates, and data entry forms."
   }
 ]

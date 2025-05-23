@@ -1,9 +1,10 @@
 ---
 title: "North American Aquatic Energy Density Toolbox"
 ---
-#Welcome to the the North American Aquatic Energy Density Toolbox (NAAEDT).  
+Welcome to the the North American Aquatic Energy Density Toolbox (NAAEDT).  
 This toolbox helps researchers and managers understand ecosystem health and 
 food web dynamics for aquatic ecosystems. 
 
 There are several different functions on the website and they include the 
 toolbox, data templates, and data entry forms. 
+
